@@ -1,0 +1,10 @@
+Design and Development Report: Study MBBS Abroad Landing Page
+
+The "Study MBBS Abroad" landing page was developed for the Front-End Development Intern application at University Insights. The objective was to create a responsive and user-friendly webpage that provides essential information while integrating lead generation, SEO optimization, and analytics tracking.
+
+The design follows a clean and professional approach, using blue and white tones to convey trust. The layout ensures smooth navigation, making it easy for users to find key information. The hero section features a strong call-to-action ("Apply Now for MBBS Abroad") to encourage engagement. The page includes sections on "Why Study MBBS Abroad," key destination countries, and the admission process. A lead generation form collects user details like name, email, phone number, and country preference.
+
+For development, HTML structured the content, while CSS (Tailwind/Bootstrap) ensured responsive styling. JavaScript added interactive elements and form validation. SEO optimization was implemented using meta tags, alt attributes, structured headings, and proper URL formatting for search engine visibility. JavaScript validation ensures correct user input, while PHP was considered for backend validation but left optional. Performance enhancements included minifying CSS and JavaScript files and implementing lazy loading for images. Google Analytics and Facebook Pixel were integrated to track user behavior and engagement.
+
+The project was deployed on Vercel for seamless hosting and updates. The GitHub repository is structured with essential files, including index.html, styles.css, script.js, and a README with setup instructions. The landing page meets all requirements, offering an engaging and informative user experience. Future improvements could include backend integration for form submission, more country details, and enhanced animations. This project highlights the importance of responsive design, SEO best practices, and performance optimization in modern web development.
+
