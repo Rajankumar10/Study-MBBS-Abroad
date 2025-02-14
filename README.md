@@ -1,10 +1,74 @@
-Design and Development Report: Study MBBS Abroad Landing Page
+README - Study MBBS Abroad Landing Page
 
-The "Study MBBS Abroad" landing page was developed for the Front-End Development Intern application at University Insights. The objective was to create a responsive and user-friendly webpage that provides essential information while integrating lead generation, SEO optimization, and analytics tracking.
+Installation Guide
 
-The design follows a clean and professional approach, using blue and white tones to convey trust. The layout ensures smooth navigation, making it easy for users to find key information. The hero section features a strong call-to-action ("Apply Now for MBBS Abroad") to encourage engagement. The page includes sections on "Why Study MBBS Abroad," key destination countries, and the admission process. A lead generation form collects user details like name, email, phone number, and country preference.
+Prerequisites
 
-For development, HTML structured the content, while CSS (Tailwind/Bootstrap) ensured responsive styling. JavaScript added interactive elements and form validation. SEO optimization was implemented using meta tags, alt attributes, structured headings, and proper URL formatting for search engine visibility. JavaScript validation ensures correct user input, while PHP was considered for backend validation but left optional. Performance enhancements included minifying CSS and JavaScript files and implementing lazy loading for images. Google Analytics and Facebook Pixel were integrated to track user behavior and engagement.
+Ensure you have the following installed:
 
-The project was deployed on Vercel for seamless hosting and updates. The GitHub repository is structured with essential files, including index.html, styles.css, script.js, and a README with setup instructions. The landing page meets all requirements, offering an engaging and informative user experience. Future improvements could include backend integration for form submission, more country details, and enhanced animations. This project highlights the importance of responsive design, SEO best practices, and performance optimization in modern web development.
+A code editor (e.g., VS Code, Sublime Text)
 
+Node.js and npm (for package management)
+
+Git (for version control)
+
+Steps to Install and Run
+
+Clone the repository:
+
+git clone https://github.com/your-repo-url.git
+
+Navigate to the project folder:
+
+cd study-mbbs-abroad
+
+Install dependencies (if any):
+
+npm install
+
+Start a local development server:
+
+npx live-server
+
+or (if using Vite)
+
+npm run dev
+
+Open the browser and go to http://localhost:3000/ (or the port specified by your server).
+
+Plugins and Libraries Used
+
+Tailwind CSS - For responsive styling and layout.
+
+Bootstrap - For additional UI components and grid system.
+
+JavaScript - For interactivity and form validation.
+
+Google Analytics & Facebook Pixel - For tracking user behavior.
+
+Live Server/Vite - For local development and hot reloading.
+
+Optimizations
+
+SEO Best Practices: Implemented meta tags, alt attributes, structured headings, and proper URL formatting.
+
+Performance Enhancements: Minified CSS/JS, lazy loading for images, and optimized asset loading.
+
+Mobile Responsiveness: Ensured a seamless experience across various devices using Tailwind CSS and Bootstrap.
+
+Form Validation: Added JavaScript-based validation to prevent incorrect form submissions.
+
+Analytics Integration: Google Analytics and Facebook Pixel are used for user engagement tracking.
+
+Deployment
+
+The project is deployed on Vercel for seamless hosting and updates. You can access the live site at:
+https://study-mbbs-abroad-swart.vercel.app/
+
+Future Improvements
+
+Backend integration for form submission.
+
+More country details and interactive elements.
+
+Additional animations for enhanced user experience.
